@@ -26,23 +26,6 @@ $string['pluginname'] = 'Configurateur de formulaire d\'inscription';
 
 $string['custom_registration_form'] = 'Configuration de l\'inscription personnalisée';
 
-$string['custom_skype'] = 'Skype';
-$string['enable_custom_skype'] = 'Activer le champs skype';
-$string['enable_custom_skype_desc'] = 'Activer le champs skype';
-$string['is_custom_skype_required'] = 'Skype required';
-$string['is_custom_skype_required_desc'] = 'Est-ce que le champs Skype est requis ?';
-
-$string['custom_yahoo'] = 'Yahoo';
-$string['enable_custom_yahoo'] = 'Activer le champs yahoo';
-$string['enable_custom_yahoo_desc'] = 'Activer le champs yahoo';
-$string['is_custom_yahoo_required'] = 'Yahoo requis';
-$string['is_custom_yahoo_required_desc'] = 'Est-ce que le champs Yahoo est requis ?';
-
-$string['custom_msn'] = 'msn';
-$string['enable_custom_msn'] = 'Activer le champs msn';
-$string['enable_custom_msn_desc'] = 'Activer le champs msn';
-$string['is_custom_msn_required'] = 'Msn requis';
-$string['is_custom_msn_required_desc'] = 'Est-ce que le champs Msn est requis ?';
 
 $string['custom_phone1'] = 'Téléphone n°1';
 $string['enable_custom_phone1'] = 'Activer le champs téléphone 1';

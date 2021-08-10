@@ -33,21 +33,6 @@ function local_custom_registration_get_additional_fields() {
 
     // TODO : It would be great to get the maxlength and type directly from the database
     return [
-        'custom_skype' => [
-            'element_type' => 'text',
-            'type' => PARAM_TEXT,
-            'maxlength' => 50,
-        ],
-        'custom_yahoo' => [
-            'element_type' => 'text',
-            'type' => PARAM_TEXT,
-            'maxlength' => 50,
-        ],
-        'custom_msn' => [
-            'element_type' => 'text',
-            'type' => PARAM_TEXT,
-            'maxlength' => 50,
-        ],
         'custom_phone1' => [
             'element_type' => 'text',
             'type' => PARAM_TEXT,

@@ -22,7 +22,7 @@
  */
 
 $plugin->component = 'local_custom_registration';
-$plugin->version  = 2021030502;
+$plugin->version  = 2021081000;
 $plugin->requires = 2020061500;
 $plugin->dependencies = array(
     'auth_email' => 2020061500,

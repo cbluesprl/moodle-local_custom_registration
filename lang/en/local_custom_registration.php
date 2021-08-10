@@ -26,23 +26,6 @@ $string['pluginname'] = 'Custom registration form';
 
 $string['custom_registration_form'] = 'Registration form configuration';
 
-$string['custom_skype'] = 'Skype';
-$string['enable_custom_skype'] = 'Enable skype input';
-$string['enable_custom_skype_desc'] = 'Enable skype input';
-$string['is_custom_skype_required'] = 'Skype required';
-$string['is_custom_skype_required_desc'] = 'Is Skype input required?';
-
-$string['custom_yahoo'] = 'Yahoo';
-$string['enable_custom_yahoo'] = 'Enable yahoo input';
-$string['enable_custom_yahoo_desc'] = 'Enable yahoo input';
-$string['is_custom_yahoo_required'] = 'Yahoo required';
-$string['is_custom_yahoo_required_desc'] = 'Is Yahoo input required?';
-
-$string['custom_msn'] = 'msn';
-$string['enable_custom_msn'] = 'Enable msn input';
-$string['enable_custom_msn_desc'] = 'Enable msn input';
-$string['is_custom_msn_required'] = 'Msn required';
-$string['is_custom_msn_required_desc'] = 'Is msn input required?';
 
 $string['custom_phone1'] = 'Phone n°1';
 $string['enable_custom_phone1'] = 'Enable phone1 input';
